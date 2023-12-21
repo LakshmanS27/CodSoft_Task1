@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/frontend.png",
+      "title": "Front-End",
+      "description": "Front-end development involves creating the user interface and user experience of a website or web application. It focuses on the visual aspects that users interact with, such as layouts, buttons, forms, and overall design. Technologies that I use include HTML, CSS, and JavaScript, along with a front-end framework React"
+    },
+    {
+      "id": "2",
+      "src": "./img/backend.png",
+      "title": "Back-End",
+      "description": "Back-end development involves building the server-side and database components of a web application. It includes managing data, handling requests from the front end, and ensuring the overall functionality and security of the application. Languages I use for Back-end development are Node.js, Python, Java and C/C++"
+    },
+    {
+      "id": "3",
+      "src": "./img/flutter.png",
+      "title": "Mobile Application",
+      "description": "Mobile application development involves creating software applications for mobile devices such as smartphones and tablets. It includes both iOS and Android development. I use to build apps for multiple platforms with a single codebase"
+    },
+    {
+      "id": "4",
+      "src": "./img/eda.png",
+      "title": "Exploratory Data Analysis",
+      "description": "EDA is a data analysis approach that focuses on summarizing, visualizing, and understanding the main characteristics of a dataset to uncover patterns, trends, and relationships in the data. I use programming languages Python and R"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/calculator.png",
+      "title": "Simple Calculator",
+      "description": "A simple Calculator with basic operations and numbers using Flutter",
+      "link": "View In Github",
+      "githubLink": "https://github.com/LakshmanS27/Scientific_Calculator"
+    },
+    {
+      "id": "2",
+      "src": "./img/regapp.png",
+      "title": "Registration App",
+      "description": "A full registration app with Login,Register and Home pages",
+      "link": "View In Github",
+      "githubLink": "https://github.com/LakshmanS27/Registration_App"
+    },
+    {
+      "id": "3",
+      "src": "./img/webb.png",
+      "title": "Login Page",
+      "description": "It is a react website for a simple registration login page",
+      "link": "View In Github",
+      "githubLink": "https://github.com/LakshmanS27/LoginPage-app"
+    }
+  ]
+}
